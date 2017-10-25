@@ -14,8 +14,11 @@ Na página principl do sistema http://localhost/gestor_financeiro/ o usuário te
 Após realizar o cadastro ou logar com sucesso, é exibido a página de dashboard do usuário, com um botão para o mesmo acessar as suas contas. Nesta página, é exibdo um relatório com todas as contas cadastradas para o usuário, sendo possível o usuário realizar as seguintes operações:
 
 1: Adicionar novas contas;
+
 2: Realizar Transações em uma determinada conta;
-3: Gerar relatório por período
+
+3: Gerar relatório por período;
+
 4: Ativar ou Intivar uma determinada conta.
 
 Observações:
