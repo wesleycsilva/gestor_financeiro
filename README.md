@@ -8,6 +8,7 @@ No arquivo index.php contém todas as chamadas para acessar todas as funcionalid
 Na página principl do sistema http://localhost/gestor_financeiro/ o usuário tem duas opções:
 
 1: logar caso seja cadasrado;
+
 2: cadastrar.
 
 Após realizar o cadastro ou logar com sucesso, é exibido a página de dashboard do usuário, com um botão para o mesmo acessar as suas contas. Nesta página, é exibdo um relatório com todas as contas cadastradas para o usuário, sendo possível o usuário realizar as seguintes operações:
