@@ -22,4 +22,5 @@ Após realizar o cadastro ou logar com sucesso, é exibido a página de dashboar
 4: Ativar ou Intivar uma determinada conta.
 
 Observações:
+
 O intuido do sistema é exemplificar como funciona a arquitetura MVC sem a utilização de framework tendo em vista somente as operações de Backoffice, sendo assim, para facilitar, foi utilizada o Bootstrap 3 (https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css) somente para algumas questões de CSS.  
